@@ -141,14 +141,6 @@
       "uploadDate": "2025-10-24",
       "locked": false
     },
-    "7.2": {
-      "title": "Chapter 7.2",
-      "folder": "7.2",
-      "pages": 12,
-      "views": 0,
-      "uploadDate": "2025-10-24",
-      "locked": false
-    },
     "8.1": {
       "title": "Chapter 8.1",
       "folder": "8.1",
@@ -158,5 +150,5 @@
       "locked": true
     }
   },
-  "lastUpdated": "2025-10-24T00:44:24.194Z"
+  "lastUpdated": "2025-10-24T09:41:17.229Z"
 }
