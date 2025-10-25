@@ -25,7 +25,7 @@
     "imagePrefix": "Image",
     "imageFormat": "jpg",
     "lockedChapters": [
-      "8.1"
+      "8.2"
     ]
   },
   "chapters": {
@@ -152,11 +152,19 @@
     "8.1": {
       "title": "Chapter 8.1",
       "folder": "8.1",
+      "pages": 12,
+      "views": 0,
+      "uploadDate": "2025-10-25",
+      "locked": false
+    },
+    "8.2": {
+      "title": "Chapter 8.2",
+      "folder": "8.2",
       "pages": 0,
       "views": 0,
       "uploadDate": null,
       "locked": true
     }
   },
-  "lastUpdated": "2025-10-25T00:46:08.865Z"
+  "lastUpdated": "2025-10-25T14:37:00.948Z"
 }
