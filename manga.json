@@ -16,16 +16,16 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 488,
+    "views": 489,
     "links": {
       "mangadex": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8/class-de-ichiban-kawaii-gal-o-ezuke-shiteiru-hanashi",
       "raw": "https://www.manga-up.com/titles/1540"
     },
     "repoUrl": "https://raw.githubusercontent.com/nurananto/KawaiiGal/main/",
     "imagePrefix": "Image",
-    "imageFormat": "jpg",
+    "imageFormat": "webp",
     "lockedChapters": [
-      "9.1"
+      "9.2"
     ]
   },
   "chapters": {
@@ -37,7 +37,7 @@
       "totalPages": 36,
       "pages": 36,
       "locked": false,
-      "views": 28
+      "views": 29
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -203,13 +203,23 @@
       "title": "Chapter 9.1",
       "chapter": 9.1,
       "folder": "9.1",
-      "uploadDate": "2025-11-07T09:13:26+07:00",
+      "uploadDate": "2025-11-17T17:19:29+07:00",
+      "totalPages": 14,
+      "pages": 14,
+      "locked": false,
+      "views": 20
+    },
+    "9.2": {
+      "title": "Chapter 9.2",
+      "chapter": 9.2,
+      "folder": "9.2",
+      "uploadDate": "2025-11-17T17:20:22+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 20
+      "views": 0
     }
   },
-  "lastUpdated": "2025-11-17T09:16:36+07:00",
-  "lastChapterUpdate": "2025-11-07T09:13:26+07:00"
+  "lastUpdated": "2025-11-17T17:20:22+07:00",
+  "lastChapterUpdate": "2025-11-17T17:20:22+07:00"
 }
