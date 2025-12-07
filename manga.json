@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 251,
+    "views": 265,
     "links": {
       "mangadex": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8/class-de-ichiban-kawaii-gal-o-ezuke-shiteiru-hanashi",
       "raw": "https://www.manga-up.com/titles/1540"
@@ -38,7 +38,7 @@
       "totalPages": 36,
       "pages": 36,
       "locked": false,
-      "views": 25
+      "views": 26
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -48,7 +48,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 10
+      "views": 11
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -58,7 +58,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 6
+      "views": 7
     },
     "2.3": {
       "title": "Chapter 2.3",
@@ -68,7 +68,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 6
+      "views": 7
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -78,7 +78,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 7
+      "views": 8
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -88,7 +88,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "3.3": {
       "title": "Chapter 3.3",
@@ -98,7 +98,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -108,7 +108,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 8
+      "views": 9
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -118,7 +118,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 7
+      "views": 8
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -128,7 +128,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 8
+      "views": 10
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -138,7 +138,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 9
+      "views": 11
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -148,7 +148,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 14
+      "views": 15
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -208,7 +208,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 97
+      "views": 99
     },
     "9.2": {
       "title": "Chapter 9.2",
@@ -218,7 +218,7 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 47
+      "views": 52
     },
     "10.1": {
       "title": "Chapter 10.1",
@@ -228,9 +228,9 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 11
+      "views": 14
     }
   },
-  "lastUpdated": "2025-12-07T00:15:22+07:00",
+  "lastUpdated": "2025-12-08T00:15:03+07:00",
   "lastChapterUpdate": "2025-12-01T21:51:16+07:00"
 }
