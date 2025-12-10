@@ -1,9 +1,9 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T13:16:33.588Z",
-      "lastUpdate": "2025-12-10T00:19:29+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "2.1": {
       "pendingViews": 0,
@@ -56,44 +56,44 @@
       "lastUpdate": "2025-12-09T00:18:51+07:00"
     },
     "6.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:12:21.306Z",
-      "lastUpdate": "2025-12-09T00:18:51+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "6.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:14:12.776Z",
-      "lastUpdate": "2025-12-09T00:18:51+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "7.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:12:09.962Z",
-      "lastUpdate": "2025-12-09T00:18:51+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "7.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:19:02.743Z",
-      "lastUpdate": "2025-12-09T00:18:51+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "8.1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:20:18.164Z",
-      "lastUpdate": "2025-12-09T00:18:51+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "8.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:21:37.846Z",
-      "lastUpdate": "2025-12-10T00:19:29+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "9.1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T08:22:53.452Z",
-      "lastUpdate": "2025-12-10T00:19:29+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "9.2": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2025-12-10T16:32:11.700Z",
-      "lastUpdate": "2025-12-10T00:19:29+07:00"
+      "lastUpdate": "2025-12-11T00:20:49+07:00"
     },
     "10.1": {
       "pendingViews": 0,
@@ -101,5 +101,5 @@
       "lastUpdate": "2025-12-10T00:19:29+07:00"
     }
   },
-  "lastUpdated": "2025-12-10T00:19:29+07:00"
+  "lastUpdated": "2025-12-11T00:20:49+07:00"
 }
