@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Class de Ichiban Kawaii Gal o Ezuke Shiteiru Hanashi",
   "alternativeTitle": "クラスで一番かわいいギャルを餌付けしている話",
   "cover": "https://cdn.nuranantoscans.my.id/covers/kawaiigal-057c4259-5fef-4db3-aef5-a805c7f096c2.webp",
@@ -14,7 +15,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8/class-de-ichiban-kawaii-gal-o-ezuke-shiteiru-hanashi",
