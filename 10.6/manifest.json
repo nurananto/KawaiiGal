@@ -3,14 +3,16 @@
   "upload_date": "2026-01-29 22:13:46",
   "total_pages": 9,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image07.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image08.webp",
-    "https://cdn.nuranantoscans.my.id/KawaiiGal/10.6/Image09.webp"
-  ]
+    "d7a67cdb8d60cc5a99c2890fecb45daf:550944ee356f1acde775f568f1c826da4ee367c9d95783ed0125fab9420c0a9e30cfe9b57259c2488e511b5d4e8b9eb5dde1a30c8de829a0f54a368187dd7bf9",
+    "e661170086e3f9c2aa3a60a272a6ebf1:9d44738bd6cc52a8b677b07ba6a77fe00ca8a4c8c87ac337039b47728ae186517e373e2975cbe1b0e3f74152cb226456bece4d2fe0ddea410e2f2c26cea78115",
+    "f7d3adfd73f190c2f49c2fa77c1b5945:e2e88303a72ce16ec223fd320b3266ff9ecc921c61d1a902b5b0445a23d412aa98a5fb0e2230955562446c0d4df4e72f2b39a451b0c9c5f552dcf4f6d23b8050",
+    "88f07b897b136468675a941d23dde04b:c1205c2cdaa65a99aa6f1741c4ab49d9dc1e7d4b55d149e5a8ac4f88b667e94bbd89b96147fa4b224a1611d8d68c454d9f5b838394d80e0eb6c6262e0d24112a",
+    "587cab0df265d8de32bd657b7d73c503:e9fc82e8849881d909bc957608702bff59f76a9c213a161d951e87e58dd5565f7bda2986fbc0b8dc85cf4ff937497d58251806bd0f910dfeffa987d28418b500",
+    "fb222ca08e7ac87e636e5c9c452a8dda:249afb46a7c9f824156bb9fefaaadda298dd00b086e147eae8a669efd0e7ed9604c200ab3ebc2d558bad5a8205d98d319e52d02e5f24ba74f4d6a8759a19d31c",
+    "244b86a833bd2ad97460d3079ba2301f:e51f25e8af1e881d526f0311ac0d36599cce8ee3e1ad8b6fbd798f174c3101048e50597270259b18640d62fad6e5eac22b0b377db3ea613d7d68f84374c82dfc",
+    "ea20d1d931dc10a40a9acab7fbb11218:77e634cdd23c2d9b46748c734123c182f89754e44d0874f422cf15ebcff863c46011b9c8e8463d74d716e47368327e82b564799413e52fd64b71f9fe328b726e",
+    "47749601d7fff67b24969b88d3ad06af:63c0e9e6a533693592402637f10c5dd9862c5b67b0aee11b8fda0175829bcce6099bc2dbb43ffd16990d94dc539e62f2625b18289c0f338d94358164c984da06"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
