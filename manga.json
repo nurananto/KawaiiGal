@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 1525,
+    "views": 1534,
     "links": {
       "mangadex": "https://mangadex.org/title/acfd6902-b39c-4b7d-91a8-9825dda4ede8/class-de-ichiban-kawaii-gal-o-ezuke-shiteiru-hanashi",
       "raw": "https://www.manga-up.com/titles/1540"
@@ -228,7 +228,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 274
+      "views": 275
     },
     "10.2": {
       "title": "Chapter 10.2",
@@ -238,7 +238,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 245
+      "views": 246
     },
     "10.5": {
       "title": "Chapter 10.5",
@@ -248,7 +248,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 158
+      "views": 159
     },
     "10.6": {
       "title": "Chapter 10.6",
@@ -258,7 +258,7 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 85
+      "views": 89
     },
     "11.1": {
       "title": "Chapter 11.1",
@@ -268,9 +268,9 @@
       "totalPages": 12,
       "pages": 12,
       "locked": true,
-      "views": 35
+      "views": 38
     }
   },
-  "lastUpdated": "2026-02-12T00:54:27+07:00",
+  "lastUpdated": "2026-02-13T00:55:59+07:00",
   "lastChapterUpdate": "2026-02-03T18:44:02+07:00"
 }
