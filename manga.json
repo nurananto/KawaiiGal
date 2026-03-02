@@ -25,7 +25,7 @@
     "imagePrefix": "Image",
     "imageFormat": "webp",
     "lockedChapters": [
-      "11.1"
+      "11.2"
     ],
     "type": "manga"
   },
@@ -267,10 +267,20 @@
       "uploadDate": "2026-02-03T18:44:02+07:00",
       "totalPages": 12,
       "pages": 12,
-      "locked": true,
+      "locked": false,
       "views": 43
+    },
+    "11.2": {
+      "title": "Chapter 11.2",
+      "chapter": 11.2,
+      "folder": "11.2",
+      "uploadDate": "2026-03-02T22:34:56+07:00",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": true,
+      "views": 0
     }
   },
-  "lastUpdated": "2026-02-28T19:00:16.450Z",
-  "lastChapterUpdate": "2026-02-03T18:44:02+07:00"
+  "lastUpdated": "2026-03-02T22:36:07+07:00",
+  "lastChapterUpdate": "2026-03-02T22:34:56+07:00"
 }
