@@ -13,9 +13,7 @@
 | Author | Tomo Shirano |
 | Artist | Ryou Miyazaki |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Cooking · Gyaru · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 25 chapter (1 locked) |
 
 ## Link
 
